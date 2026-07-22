@@ -11,7 +11,7 @@ This is a multi-tool desktop app designed to protect and encrypt digital content
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🌟 主な機能 (機能・特徴)
+## 🌟 主な機能 (特徴)
 
 * **🖼️ 画像保護 & 署名**: 人間の目には目立ちにくい防止ノイズパターンと署名テキストを同時に埋め込み、AI学習を妨害します。
 * **🔍 透かし検証**: 元画像/動画と保護後画像/動画の差分（ノイズ）を抽出し、可視化します。
@@ -22,7 +22,7 @@ This is a multi-tool desktop app designed to protect and encrypt digital content
 * **🛡️ セキュリティ監査**: SHA-256ハッシュ検証やシステムログ記録機能を搭載しています。
 * **🌐 多言語対応**: 日本語 (JPN) / 英語 (ENG) のワンタップ切り替えに対応しています。
 
-## 🌟 Key Features(Features)
+## 🌟 Key Features:
 
 * **🖼️ Image Protection & Watermarking**: Simultaneously embeds anti-spoofing noise patterns—which are barely noticeable to the human eye—and signature text to disrupt AI training.
 * **🔍 Watermark Verification**: Extracts and visualizes the differences (noise) between the original image/video and the protected image/video.
@@ -40,19 +40,25 @@ This is a multi-tool desktop app designed to protect and encrypt digital content
 
 ### 1. リポジトリのクローン (またはダウンロード)
 Clone (or download) the repository
-```bash
+```
+bash
 git clone [https://github.com/HisnameisSky/ai-protection-pro-v7.git](https://github.com/HisnameisSky/ai-protection-pro-v7.git)
 cd ai-protection-pro-v7
+```
 
 ### 2. 必要なライブラリのインストール
 Install Required Libraries
-```Bash
+```
+Bash
 pip install -r requirements.txt
+```
 
 
 ### 3. アプリの起動
 Run the Application
-```Bash
+```
+Bash
 python main.py
+```
 
 
