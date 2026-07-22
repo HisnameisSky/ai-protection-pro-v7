@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 実行ファイル・ビルド生成物（GitHubに上げない）
+build/
+dist/
+*.spec
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.py[cod]
+
+# 仮想環境（もし使っている場合）
+.venv/
+venv/
+env/
+
+# OS固有の不要ファイル
+.DS_Store
+Thumbs.db
