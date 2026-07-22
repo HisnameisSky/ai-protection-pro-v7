@@ -42,7 +42,7 @@ git commit -m "Initial commit v7.0"
 git branch -M main
 
 # 5. GitHubで作成したリポジトリのURLを設定
-git remote add origin https://github.com/あなたのユーザー名/リポジトリ名.git
+git remote add origin https://github.com/HisnameisSky/ai-protection-pro-v7.git
 
 # 6. アップロード！
 git push -u origin main
