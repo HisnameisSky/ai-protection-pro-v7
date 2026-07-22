@@ -42,7 +42,7 @@ This is a multi-tool desktop app designed to protect and encrypt digital content
 Clone (or download) the repository
 ```
 bash
-git clone [https://github.com/HisnameisSky/ai-protection-pro-v7.git](https://github.com/HisnameisSky/ai-protection-pro-v7.git)
+git clone https://github.com/HisnameisSky/ai-protection-pro-v7.git
 cd ai-protection-pro-v7
 ```
 
@@ -52,7 +52,6 @@ Install Required Libraries
 Bash
 pip install -r requirements.txt
 ```
-
 
 ### 3. アプリの起動
 Run the Application
