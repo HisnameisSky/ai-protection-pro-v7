@@ -2,7 +2,8 @@
 デジタルコンテンツをAIによる無断学習や泥棒から保護・暗号化するためのマルチツールです。
 
 <!-- ここにドラッグ＆ドロップした画像を貼る -->
-![App Screenshot]<img width="644" height="679" alt="スクリーンショット 2026-07-22 14 29 57" src="https://github.com/user-attachments/assets/78820165-b685-4b67-87bb-d71f333b5039" />
+![App Screenshot]
+<img width="644" height="679" alt="スクリーンショット 2026-07-22 14 29 57" src="https://github.com/user-attachments/assets/78820165-b685-4b67-87bb-d71f333b5039" />
 <img width="642" height="571" alt="スクリーンショット 2026-07-22 14 30 35" src="https://github.com/user-attachments/assets/1853d51a-8b32-45f1-bcdd-0312f0ee85da" />
 <img width="642" height="651" alt="スクリーンショット 2026-07-22 14 30 12" src="https://github.com/user-attachments/assets/bf575452-7556-40f1-a6f1-4ea5df3f2c3a" />
 
