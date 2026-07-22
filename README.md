@@ -1,12 +1,12 @@
 <!-- ここにドラッグ＆ドロップした画像を貼る -->
 <img width="644" height="679" alt="スクリーンショット 2026-07-22 14 29 57" src="https://github.com/user-attachments/assets/78820165-b685-4b67-87bb-d71f333b5039" />
-<img width="642" height="571" alt="スクリーンショット 2026-07-22 14 30 35" src="https://github.com/user-attachments/assets/1853d51a-8b32-45f1-bcdd-0312f0ee85da" />
-<img width="642" height="651" alt="スクリーンショット 2026-07-22 14 30 12" src="https://github.com/user-attachments/assets/bf575452-7556-40f1-a6f1-4ea5df3f2c3a" />
 
 ーーー
 # AI Protection Pro Studio v7.0 🛡️
 
 デジタルコンテンツ（画像・音声・動画・文書）をAIによる無断学習や泥棒から保護・暗号化するためのマルチツールデスクトップアプリです。
+
+This is a multi-tool desktop app designed to protect and encrypt digital content (images, audio, video, and documents) from unauthorized AI training and theft.
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -21,6 +21,17 @@
 * **📄 文書・コード保護**: PDF、Office文書、PythonコードなどをAES-256で完全暗号化/復元します。
 * **🛡️ セキュリティ監査**: SHA-256ハッシュ検証やシステムログ記録機能を搭載しています。
 * **🌐 多言語対応**: 日本語 (JPN) / 英語 (ENG) のワンタップ切り替えに対応しています。
+
+## 🌟 Key Features(English)
+
+* **🖼️ Image Protection & Watermarking**: Simultaneously embeds anti-spoofing noise patterns—which are barely noticeable to the human eye—and signature text to disrupt AI training.
+* **🔍 Watermark Verification**: Extracts and visualizes the differences (noise) between the original image/video and the protected image/video.
+* **📦 Secure ZIP**: Compresses important files into a ZIP archive with AES-256 encryption.
+* **🎬 Video Protection**: Applies a protection pattern to every frame to prevent AI training using the video.
+* **🎵 Audio Asset Protection**: Embeds an owner key (cryptographic key) in the 19 kHz band—invisible to the human ear—to prevent voice cloning. (Note: Currently only supported for WAV files.)
+* **📄 Document & Code Protection**: Fully encrypts and decrypts PDFs, Office documents, Python code, and more using AES-256.
+* **🛡️ Security Audit**: Includes SHA-256 hash verification and system log recording features.
+* **🌐 Multilingual Support**: Supports one-tap switching between Japanese (JPN) and English (ENG).
 
 ---
 
@@ -39,22 +50,9 @@ pip install -r requirements.txt
 Bash
 python main.py
 
-------------------------------------------
-# AI Protection Pro Studio v7.0 🛡️
-This is a multi-tool desktop app designed to protect and encrypt digital content (images, audio, video, and documents) from unauthorized AI training and theft.
 
-## 🌟 Key Features
+---English:
 
-* **🖼️ Image Protection & Watermarking**: Simultaneously embeds anti-spoofing noise patterns—which are barely noticeable to the human eye—and signature text to disrupt AI training.
-* **🔍 Watermark Verification**: Extracts and visualizes the differences (noise) between the original image/video and the protected image/video.
-* **📦 Secure ZIP**: Compresses important files into a ZIP archive with AES-256 encryption.
-* **🎬 Video Protection**: Applies a protection pattern to every frame to prevent AI training using the video.
-* **🎵 Audio Asset Protection**: Embeds an owner key (cryptographic key) in the 19 kHz band—invisible to the human ear—to prevent voice cloning. (Note: Currently only supported for WAV files.)
-* **📄 Document & Code Protection**: Fully encrypts and decrypts PDFs, Office documents, Python code, and more using AES-256.
-* **🛡️ Security Audit**: Includes SHA-256 hash verification and system log recording features.
-* **🌐 Multilingual Support**: Supports one-tap switching between Japanese (JPN) and English (ENG).
-
----
 ## 🚀 How to Use (Setup & Run)
 
 ### 1. Clone (or download) the repository
