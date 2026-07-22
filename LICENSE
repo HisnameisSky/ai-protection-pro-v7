@@ -19,3 +19,30 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ーーー
+This project is licensed under the MIT License.
+---
+
+## 💡 次のステップ（GitHubへアップロードする方法）
+
+4つのファイルが揃ったら、コマンドプロンプトまたはターミナルでそのフォルダに移動し、以下のコマンドを実行してGitHubへ共有できます！
+
+```bash
+# 1. Gitの初期化
+git init
+
+# 2. すべてのファイルを追加（.gitignoreに書いたdistなどは自動的に除外されます）
+git add .
+
+# 3. コミット（記録作成）
+git commit -m "Initial commit v7.0"
+
+# 4. メインブランチ名をmainに指定
+git branch -M main
+
+# 5. GitHubで作成したリポジトリのURLを設定
+git remote add origin https://github.com/あなたのユーザー名/リポジトリ名.git
+
+# 6. アップロード！
+git push -u origin main
