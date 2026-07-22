@@ -31,8 +31,8 @@
 
 ### 1. リポジトリのクローン (またはダウンロード)
 ```bash
-git clone [https://github.com/あなたのユーザー名/リポジトリ名.git](https://github.com/あなたのユーザー名/リポジトリ名.git)
-cd リポジトリ名
+git clone [https://github.com/HisnameisSky/ai-protection-pro-v7.git](https://github.com/HisnameisSky/ai-protection-pro-v7.git)
+cd ai-protection-pro-v7
 
 ### 2. 必要なライブラリのインストール
 Bash
