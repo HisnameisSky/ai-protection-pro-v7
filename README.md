@@ -60,4 +60,10 @@ Bash
 python main.py
 ```
 
+### 任意. アプリ化に再構築
+Optional: Create a standalone application
+```
+Bash
+pyinstaller --noconfirm --onedir --windowed --name "AI Protection Studio" main.py
+```
 
